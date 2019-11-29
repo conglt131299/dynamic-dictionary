@@ -1,0 +1,5 @@
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\bin\Debug\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\bin\Debug\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\obj\Debug\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\obj\Debug\Entity.pdb

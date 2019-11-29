@@ -1,0 +1,16 @@
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\FrontEnd.dll.config
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\FrontEnd.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\obj\Debug\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\Entity.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
